@@ -1,0 +1,73 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 10px;
+  font-family: "Comic Sans MS", "Comic Sans";
+}
+
+a {
+  color: aqua;
+  text-decoration: none;
+}
+
+
+li {
+  color: white;
+  background-color: blue;
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+  padding: 10PX;
+  font-size: 43px;
+  border-style: solid;
+  border-radius: 30px;
+  border-color: grey;
+}
+
+li:hover {
+  background-color: grey;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 33px;
+}
+
+h2 {
+  color: white;
+  font-size: 27px;
+}
+
+table.random {
+  border-style: solid;
+  border-width: medium;
+  border-color: lightblue;
+}
+
+table.wikitable {
+  border-style: solid;
+  border-width: medium;
+  border-color: lightblue;
+}
+
+td {
+  border-style: solid;
+  border-width: medium;
+  border-color: lightblue;
+}
+
+th {
+  border-style: solid;
+  border-width: medium;
+  border-color: lightblue;
+}
+
+img {
+  padding: 10px;
+  float: right;
+}
