@@ -71,3 +71,21 @@ img {
   padding: 10px;
   float: right;
 }
+
+h1#nou{
+  color: green;
+  background-color: aqua;
+  font-size: 100px;
+}
+
+ol#ok{
+  background-color: brown;
+  display: list-item;
+  color: white;
+  text-align: center;
+  margin: 23px;
+  padding: 6PX;
+  font-size: 31px;
+  border-radius: 35454px;
+  border-color: black;
+}
