@@ -72,13 +72,13 @@ img {
   float: right;
 }
 
-h1#nou{
+h1#god {
   color: green;
   background-color: aqua;
   font-size: 100px;
 }
 
-ol#ok{
+ol#damn {
   background-color: brown;
   display: list-item;
   color: white;
@@ -88,4 +88,21 @@ ol#ok{
   font-size: 31px;
   border-radius: 35454px;
   border-color: black;
+}
+
+li.godd {
+  background-color: brown;
+  display: list-item;
+  color: white;
+  text-align: center;
+  margin: 23px;
+  padding: 6PX;
+  font-size: 31px;
+  border-radius: 35454px;
+  border-color: black;
+}
+
+p.jesus {
+  font-size: 49;
+  color: green;
 }
